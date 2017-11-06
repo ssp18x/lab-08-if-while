@@ -1,1 +1,1 @@
-# lab-08-if-while
+This is lav 08...more Javascript conditionals.
